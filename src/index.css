@@ -11,9 +11,11 @@ section {
   display: flex;
   align-items: center;
   flex-direction: column;
+  /* background-image: url(https://elementor.altdesain.com/aifoundaries/wp-content/uploads/2024/02/BG4.png); */
+  background-image: url(https://ai-wave.netlify.app/assets/images/bg/main-banner-bg.png);
   background-position: bottom right;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;
 }
 
 @keyframes fadeIn {
